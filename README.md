@@ -6,7 +6,7 @@
 
 First-year Software Engineering student at Lakehead University, after a year of Computer Engineering at Toronto Metropolitan University. I build software that keeps working when the signal drops, a server fails, or two people click at once.
 
-**[Portfolio](https://adenyadegar.github.io/personal-project-portfolio/)** · **[Résumé](https://adenyadegar.github.io/personal-project-portfolio/resume.pdf)** · **[LinkedIn](https://www.linkedin.com/in/aden-yadegar-349063313)** · aden.yadegar21@gmail.com
+**[Portfolio](https://adenyadegar.github.io/personal-project-portfolio/)** · **[Resume](https://adenyadegar.github.io/personal-project-portfolio/resume.pdf)** · **[LinkedIn](https://www.linkedin.com/in/aden-yadegar-349063313)** · aden.yadegar21@gmail.com
 
 Open to internship and co-op roles.
 
