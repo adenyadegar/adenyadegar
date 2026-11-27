@@ -1,10 +1,10 @@
 <a href="https://adenyadegar.github.io/">
-  <img src="https://adenyadegar.github.io/images/og-cover.jpg" alt="Aden Yadegar: full-stack developer. Software that keeps working." />
+  <img src="https://adenyadegar.github.io/images/og-cover.jpg" alt="Aden Yadegar, software engineering student and full-stack developer. I build full-stack apps and get them online." />
 </a>
 
 ### Aden Yadegar
 
-First-year Software Engineering student at Lakehead University, after a year of Computer Engineering at Toronto Metropolitan University. I build software that keeps working when the signal drops, a server fails, or two people click at once.
+I'm a first-year Software Engineering student at Lakehead University, after a year of Computer Engineering at Toronto Metropolitan University. I started teaching myself Python during quarantine in 2020, fell in love with it, and I've been building things ever since.
 
 **[Portfolio](https://adenyadegar.github.io/)** · **[Resume](https://adenyadegar.github.io/resume.pdf)** · **[LinkedIn](https://www.linkedin.com/in/adenyadegar)** · aden.yadegar21@gmail.com
 
